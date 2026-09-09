@@ -67,5 +67,5 @@ Día 7: máximo del día: tiovivo = 389
 
 ## Autor
 
-**Kaori** — DAW 2024/2026  
+**Kaori** — DAW 2025/2026  
 [GitHub](https://github.com/Mia-Kaori)
